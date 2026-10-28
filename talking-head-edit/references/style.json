@@ -1,0 +1,27 @@
+{
+  "_how_to_use": "This is YOUR look. Change any value, save, and every video after this uses it. Colors are hex codes (#RRGGBB). Positions are 0 (top of the frame) to 1 (bottom). Ask Claude to 'set up my video style' and it will edit this file for you.",
+
+  "caption_font": "Arial Black",
+  "caption_size": 54,
+  "caption_color": "#FFFFFF",
+  "highlight_color": "#3EE6FF",
+  "caption_position": 0.74,
+  "all_caps": true,
+  "max_words_per_caption": 3,
+
+  "title_font": "Georgia",
+  "title_size": 96,
+  "title_color": "#FFFFFF",
+  "title_position": 0.11,
+  "title_hold": 3.6,
+  "typewriter": true,
+
+  "card_font": "Arial",
+  "card_size": 37,
+  "card_color": "#FFFFFF",
+  "card_top": 0.125,
+
+  "sound_effects": true,
+  "sound_file": "assets/pop.wav",
+  "sound_volume": 0.35
+}

@@ -1,0 +1,17 @@
+{
+  "video": "cut.mp4",
+  "words": "cut.json",
+  "output": "~/Downloads/edited/My-video_final.mp4",
+  "title": "How I saved\\N$500 in May",
+  "replacements": [
+    ["clawed", "Claude"],
+    ["five hundred dollars", "$500"],
+    ["50 dollars an hour", "$50/hr"]
+  ],
+  "card": {
+    "lines": [["Groceries: $120", 14.20], ["+ Subscriptions: $80", 21.75], ["+ Takeout: $300", 29.10], ["= $500", 36.40]],
+    "end": 48.0
+  },
+  "pops": [14.20, 21.75, 29.10, 36.40],
+  "denoise": true
+}
