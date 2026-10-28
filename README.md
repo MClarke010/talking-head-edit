@@ -28,7 +28,7 @@ Short version: click **Code → Download ZIP** on this page, unzip it, open Clau
 Or if you're comfortable in Terminal:
 
 ```bash
-git clone https://github.com/<your-github-username>/talking-head-edit.git
+git clone https://github.com/MClarke010/talking-head-edit.git
 cp -r talking-head-edit/talking-head-edit ~/.claude/skills/
 ```
 

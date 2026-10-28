@@ -5,7 +5,7 @@
 **Before you start:** a Mac, and a paid Claude plan that includes Claude Code (the **Code** tab in the Claude desktop app).
 
 ## 01. Download it from GitHub
-No GitHub account needed. Go to **github.com/YOUR-USERNAME/talking-head-edit**, click the green **Code** button, then **Download ZIP**. Double-click the zip to open it. You'll get a folder called **talking-head-edit-main** in your Downloads.
+No GitHub account needed. Go to **github.com/MClarke010/talking-head-edit**, click the green **Code** button, then **Download ZIP**. Double-click the zip to open it. You'll get a folder called **talking-head-edit-main** in your Downloads.
 
 ## 02. Open Claude Code
 Open the Claude desktop app and click the **Code** tab.
